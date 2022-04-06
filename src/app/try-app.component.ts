@@ -7,6 +7,6 @@ import { Component } from '@angular/core';
     <img src = "/assets/Images/Angular.png"/>
   `
 })
-export class EventsAppComponent {
+export class TryAppComponent {
   title = 'Project';
 }
